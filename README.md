@@ -88,5 +88,5 @@ Simulate fluctuations in populations of creatures with changable altruism chance
 (which decides if the creature will want to share or fight for food) and other
 settings.
 
-##SierpinskiTriangleRecursiveTurtle
+## SierpinskiTriangleRecursiveTurtle
 Draw a Sierpinski Triangle recursively.
